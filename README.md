@@ -5,7 +5,7 @@ A macro tracking app built with React Native and Expo. Track your daily meals an
 > **📌 Based on:** [React Native Crash Course](https://youtu.be/XCifkDC0yXA) by [Traversy Media](https://github.com/bradtraversy/macrozone). The original project served as a starting point — I followed along and built the app myself as part of learning React Native.
 
 <p align="center">
-  <img src="assets/screen.png" alt="MacroZone App" width="300" />
+  <img src="./screen.png" alt="MacroZone App" width="300" />
 </p>
 
 ## Features
